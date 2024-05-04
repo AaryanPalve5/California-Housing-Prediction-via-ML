@@ -10,7 +10,7 @@ The goal of this project is to develop a predictive model that can accurately es
 
 ## Overview
 
-In this project, we utilize a dataset containing various features such as median income, house age, average number of rooms, etc., to predict the median house value.
+In this project, I utilized a dataset containing various features such as median income, house age, average number of rooms, etc., to predict the median house value.
 
 ## Dataset
 
