@@ -2,6 +2,13 @@
 
 Welcome to the California Housing Prediction project! This project aims to predict housing prices in California using machine learning techniques.
 
+## Project Demo
+
+Explore the interactive predictions using our Streamlit web application:
+
+[California Housing Price Prediction App](https://californiahousingprice.streamlit.app/)
+
+
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/release/python-370/)
 
 ## Scope
