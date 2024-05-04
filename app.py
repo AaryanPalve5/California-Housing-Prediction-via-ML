@@ -58,5 +58,8 @@ def main():
         prediction = predict_price(input_data)
         st.success(f'Predicted Price: ${prediction:.2f}')
 
+    st.markdown('Creator:-')
+    st.markdown('[Aaryan Palve](https://aaryanpalve5.github.io/PortfolioASP/index.html)')
+
 if __name__ == '__main__':
     main()
