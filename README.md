@@ -3,7 +3,6 @@
 Welcome to the California Housing Prediction project! This project aims to predict housing prices in California using machine learning techniques.
 
 [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/release/python-370/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
 
 ## Scope
 
@@ -34,6 +33,6 @@ The dataset used in this project is the California Housing dataset obtained from
 
 ## Contributors
 
-- [Your Name]
+- [Aaryan Palve](https://aaryanpalve5.github.io/PortfolioASP/index.html)
 
 Feel free to contribute to this project by forking the repository and submitting pull requests with your enhancements!
