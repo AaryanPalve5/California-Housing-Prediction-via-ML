@@ -4,7 +4,7 @@ Welcome to the California Housing Prediction project! This project aims to predi
 
 ## Project Demo
 
-Explore the interactive predictions using our Streamlit web application:
+Explore the interactive predictions :
 
 [California Housing Price Prediction App](https://californiahousingprice.streamlit.app/)
 
